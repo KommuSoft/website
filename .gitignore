@@ -1,5 +1,8 @@
+#Temporaries
 output
 export
 tmp
 .*.swp
 *.log
+*~
+*.*~*
